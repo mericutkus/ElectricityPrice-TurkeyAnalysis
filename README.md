@@ -28,9 +28,9 @@ We investigate:
 
 | Description | Preview |
 |------------|---------|
-| Price trends over time with COVID impact | ![TimeSeries](images/time_series_covid.png) |
-| Heatmap of electricity prices by hour/month | ![Heatmap](images/heatmap_prices.png) |
-| Correlation matrix of fuel vs. electricity prices | ![Correlation](images/fuel_correlation.png) |
+| Price trends over time with COVID impact | ![TimeSeries](images/time_series_covid.PNG) |
+| Heatmap of electricity prices by hour/month | ![Heatmap](images/heatmap_prices.PNG) |
+| Correlation matrix of fuel vs. electricity prices | ![Correlation](images/fuel_correlation.PNG) |
 
 ---
 
